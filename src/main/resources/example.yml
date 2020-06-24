@@ -1,0 +1,28 @@
+# comments
+name: Sergio
+names: #list of names
+  - John
+  - Paul
+  - George
+  - Ringo
+pound_sign: "#"
+
+book:
+  author: Joe Buck
+  publisher: Random House
+truth: yes
+another_truth: True
+more_true: true
+false: no #No, false, FALSE
+string_val: "this is a string"
+colon_string: "my courses: one two three"
+include_new_lines: |
+  aasd asasd asas
+  asdsad asasd
+  asdad
+
+ignore_new_lines: >
+  weweq
+  qweqwe
+  qweqwe
+

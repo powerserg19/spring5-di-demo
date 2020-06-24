@@ -3,3 +3,10 @@ guru:
     username: JMS Usernameyml
     password: somepass
     url: SomeUrl
+--- # this is a file seperator
+spring:
+  profiles: de
+
+guru:
+  jms:
+    username: JMS Username $$$$ German
